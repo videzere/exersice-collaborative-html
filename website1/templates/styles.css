@@ -1,0 +1,40 @@
+.box{ 
+      display: inline-flex;
+	  background-image: url(https://images.unsplash.com/photo-1514565131-fce0801e5785?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1424&q=80); 
+      background-position: center;
+      background-attachment: contain;
+      background-size: cover;
+      justify-content: center;
+      align-items: center; 
+     flex-direction: column;
+      width: 1350px;
+      height: 600px;
+}
+.title1{
+	background-color: white;
+	text-align: center;
+	font-size: 100px;
+	margin-left: -400px;
+	margin-right: -400px;
+	margin-bottom: 1rem;
+
+
+
+}
+
+.title2{
+	background-color: white;
+	text-align: center;
+	font-size: 50px;
+	margin-left: -400px;
+	margin-right: -400px;
+	margin-bottom: 1rem;
+}
+
+p{
+	margin-left: 15rem;
+	margin-right: 15rem;
+	margin-bottom:0rem;
+	margin-top: 0rem;
+	
+}
